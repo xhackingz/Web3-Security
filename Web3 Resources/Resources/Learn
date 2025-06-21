@@ -1,69 +1,75 @@
 # Section 1: Blockchain Overview
 
-## 🔹 What is Blockchain?
+## What is Blockchain?
 
-🎥 Watch this video 
-> https://youtu.be/93E_GzvpMA0?si=t0dEM3N6RRsKBDfl 
+🎥 Watch this video  
+https://youtu.be/93E_GzvpMA0?si=t0dEM3N6RRsKBDfl
 
 - An introductory explanation of blockchain technology in a clear and engaging way.
 
 ---
 
-## 🔹 Hacking the Blockchain: Ethereum
+## Hacking the Blockchain: Ethereum
 
-📝 Article: [Hacking the Blockchain – An Ultimate Guide]
+📝 Article: Hacking the Blockchain – An Ultimate Guide  
+https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b
 
-> https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b
-
-### 📚 Contents:
+### Contents:
 
 1. Blockchain Basics – Learn the core concepts.
-2. Smart Contracts – What they are and how they work. >> (Smart contracts are primarily where hacks happen)
+2. Smart Contracts – What they are and how they work.  
+   > Smart contracts are primarily where hacks happen.
 3. Foundations: Solidity and Ethereum – The tools behind smart contracts.
 4. Exploitation – Real-world examples of costly vulnerabilities.
-5. Why Choose Blockchain Security?** – A personal perspective.
+5. Why Choose Blockchain Security? – A personal perspective.
 6. Acknowledgements
 
-> A must-read guide for anyone interested in becoming a **smart contract hacker** or **blockchain security expert**.
+> A must-read guide for anyone interested in becoming a smart contract hacker or blockchain security expert.
+
+💡 Want to become a smart contract hacker or blockchain expert? Start by understanding how things break.
 
 ---
 
-💡 Want to become a smart contract hacker/blockchain? Start by understanding how things break.
+## Suggested Search Topics
 
----
-
-Search For : 
-
-- Ethereum protocol
-- ETH 2.0.
+- Ethereum protocol  
+- ETH 2.0  
 - InterPlanetary File System (IPFS)
 
-Start Learning WIth :
---------------------
+---
 
-- Mastering Ethereum by Andreas Antonopoulos and Dr. Gavin Woods.
-You’ll want to read chapters 1, 2, 3, 4, 5, 6, 13, and 14. If you’re not a book person, 
-then there are video resources ahead that explain the same concepts, although not as in-depth as the book will.
+## Start Learning With
 
-> https://github.com/ethereumbook/ethereumbook
+📘 Mastering Ethereum by Andreas Antonopoulos and Dr. Gavin Woods  
+Chapters to focus on: 1, 2, 3, 4, 5, 6, 13, and 14
+
+GitHub repository:  
+https://github.com/ethereumbook/ethereumbook
+
+If you’re not a book person, there are also video resources ahead that explain the same concepts, though not as in-depth like the book.
 
 ---
 
-Your next step is going to be learning the ins-and-outs of Solidity, or whatever language your smart contracts of choice are written in. 
-If you aren’t familiar with the code and its common implementations, then you’ll lag behind, wasting time trying to Google unfamiliar functions or libraries.
-Several auditors more experienced than me have told me this before. At the beginning of my journey, 
-I didn’t listen and tried my hand at a few Ethereum smart contract CTFs. Needless to say, the code looked like gibberish. 
-So, I headed back to the proverbial Ethereum school and familiarized myself with the language. I used this course offered completely for free by freeCodeCamp.
+## Learn Solidity Programming Language.
 
-> https://youtu.be/M576WGiDBdQ
+Before diving into CTFs or audits, make sure you’re comfortable with the language.
 
-Tip: You might not be able to pick up the syntax of Solidity easily from this course, so I recommend checking out CryptoZombies for additional practice. 
-It’ll take much less time to get acquainted with the syntax.
+🎥 freeCodeCamp Solidity Course  
+https://youtu.be/M576WGiDBdQ
 
-> https://cryptozombies.io/
+🕹️ CryptoZombies – Practice Solidity syntax interactively  
+https://cryptozombies.io/
 
-Note: It is not necessary to be able to code a UI or frontend with JavaScript, React, etc. to be a smart contract auditor/hacker. 
-It’s more necessary if you’re trying to be a full-fledged blockchain developer.
+Note: You don’t need to know JavaScript or React to become a smart contract auditor. Focus on the backend contract logic.
 
+---
 
+## Safe Languages in Blockchain
+
+"More blockchain protocols are expected to adopt memory-safe languages like Rust. Some have their own custom languages. Learning to code is essential."
+
+- Rust offers safety and performance in blockchain development  
+- Programming is a fundamental skill for working in Web3 and blockchain security
+
+---
 
