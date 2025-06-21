@@ -34,5 +34,25 @@
 
 Search For : 
 
+- Ethereum protocol
 - ETH 2.0.
--  InterPlanetary File System (IPFS)
+- InterPlanetary File System (IPFS)
+
+Start Learning WIth :
+--------------------
+
+- Mastering Ethereum by Andreas Antonopoulos and Dr. Gavin Woods.
+You’ll want to read chapters 1, 2, 3, 4, 5, 6, 13, and 14. If you’re not a book person, 
+then there are video resources ahead that explain the same concepts, although not as in-depth as the book will.
+
+> https://github.com/ethereumbook/ethereumbook
+
+---
+
+Your next step is going to be learning the ins-and-outs of Solidity, or whatever language your smart contracts of choice are written in. 
+If you aren’t familiar with the code and its common implementations, then you’ll lag behind, wasting time trying to Google unfamiliar functions or libraries.
+Several auditors more experienced than me have told me this before. At the beginning of my journey, 
+I didn’t listen and tried my hand at a few Ethereum smart contract CTFs. Needless to say, the code looked like gibberish. 
+So, I headed back to the proverbial Ethereum school and familiarized myself with the language. I used this course offered completely for free by freeCodeCamp.
+
+> https://youtu.be/M576WGiDBdQ
