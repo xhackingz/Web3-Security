@@ -56,3 +56,14 @@ I didn’t listen and tried my hand at a few Ethereum smart contract CTFs. Needl
 So, I headed back to the proverbial Ethereum school and familiarized myself with the language. I used this course offered completely for free by freeCodeCamp.
 
 > https://youtu.be/M576WGiDBdQ
+
+Tip: You might not be able to pick up the syntax of Solidity easily from this course, so I recommend checking out CryptoZombies for additional practice. 
+It’ll take much less time to get acquainted with the syntax.
+
+> https://cryptozombies.io/
+
+Note: It is not necessary to be able to code a UI or frontend with JavaScript, React, etc. to be a smart contract auditor/hacker. 
+It’s more necessary if you’re trying to be a full-fledged blockchain developer.
+
+
+
