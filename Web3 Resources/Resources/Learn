@@ -1,3 +1,36 @@
+
+web3 bug bounty platform  >> They Called it "audit contest" NOT " A bug bounty "
+ 
+ - code4rena.com 
+ - immunefi.com  
+
+a contest will run between 3 to 7 days 
+
+by the end of the week period the full prize is guranteed to be paid out to all the participantes who 
+submitting findings during that order contest 
+
+( it means you get payout if your submisson is a duplicate )
+
+* All Reports are public 
+
+Learn : 
+------
+
+- Beginner Roadmap to Smart Contract Auditing
+> https://youtu.be/-469Gcye-ZE?si=26WRZ5h_s1khAIvS
+
+he started learn from 
+---------------------
+- How to become a smart contract auditor
+> https://cmichel.io/how-to-become-a-smart-contract-auditor/
+
+Main Area Focus : 
+- learning solidity language
+- learning defi basics 
+- learning traditional finance basics 
+
+------------------------------------------------------------------------------------------------------------------------------
+
 # Section 1: Blockchain Overview
 
 ## What is Blockchain?
@@ -13,18 +46,6 @@ https://youtu.be/93E_GzvpMA0?si=t0dEM3N6RRsKBDfl
 
 📝 Article: Hacking the Blockchain – An Ultimate Guide  
 https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b
-
-### Contents:
-
-1. Blockchain Basics – Learn the core concepts.
-2. Smart Contracts – What they are and how they work.  
-   > Smart contracts are primarily where hacks happen.
-3. Foundations: Solidity and Ethereum – The tools behind smart contracts.
-4. Exploitation – Real-world examples of costly vulnerabilities.
-5. Why Choose Blockchain Security? – A personal perspective.
-6. Acknowledgements
-
-> A must-read guide for anyone interested in becoming a smart contract hacker or blockchain security expert.
 
 💡 Want to become a smart contract hacker or blockchain expert? Start by understanding how things break.
 
@@ -103,18 +124,5 @@ Tying it all Together:
 freeCodeCamp course -> Chapters 1, 2, 3, 4, 5, 6, 13 and 14 in Mastering Ethereum (Optional) -> CryptoZombies -> Hack Solidity -> 
 Smart Contract Security Chapter in Mastering Ethereum (Optional) -> SWC registry -> Secureum bootcamp -> CTFs -> Real life experience/job.
 
----------
+------------------------------------------------------------------------------------------------------------------------------
 
-web3 bug bounty platform  >> They Called it "audit contest" NOT " A bug bounty "
- 
- - code4rena.com 
- - immunefi.com  
-
-a contest will run between 3 to 7 days 
-
-by the end of the week period the full prize is guranteed to be paid out to all the participantes who 
-submitting findings during that order contest 
-
-( it means you get payout if your submisson is a duplicate )
-
-* All Reports are public 
