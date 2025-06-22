@@ -102,7 +102,17 @@ Tying it all Together:
 
 freeCodeCamp course -> Chapters 1, 2, 3, 4, 5, 6, 13 and 14 in Mastering Ethereum (Optional) -> CryptoZombies -> Hack Solidity -> 
 Smart Contract Security Chapter in Mastering Ethereum (Optional) -> SWC registry -> Secureum bootcamp -> CTFs -> Real life experience/job.
----
 
- code4rena.com >> is a bug bounty platform for web3  >> They Called it "audit contest" NOT " A bug bounty "
- immunefi.com   >> is a bug bounty platform for web3 >> They Called it "audit contest" NOT " A bug bounty "
+---------
+
+web3 bug bounty platform  >> They Called it "audit contest" NOT " A bug bounty "
+ 
+ - code4rena.com 
+ - immunefi.com  
+
+a contest will run between 3 to 7 days 
+
+by the end of the week period the full prize is guranteed to be paid out to all the participantes who 
+submitting findings during that order contest 
+
+( it means you get payout if your submisson is a duplicate )
