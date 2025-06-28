@@ -1,29 +1,85 @@
 ## 🪙 What is Bitcoin?
 
-Bitcoin is a **digital currency** that allows peer-to-peer transactions without the need for a central authority (like a bank).  
-It was invented by **Satoshi Nakamoto** in 2008 and introduced a new concept: **blockchain** — a distributed ledger that records all transactions.
+Bitcoin is a digital currency that allows peer-to-peer transactions without banks.  
+It was invented by Satoshi Nakamoto in 2008 and introduced the concept of blockchain — a distributed ledger.
 
-📄 **Bitcoin White Paper** (the original document by Satoshi):  
-👉 [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+Bitcoin White Paper:  
+https://bitcoin.org/bitcoin.pdf
 
 ---
 
-## ⚙️ Ethereum & Vitalik Buterin
+## ⚙️ Ethereum and Smart Contracts
 
-In 2013, **Vitalik Buterin** released a white paper proposing a new blockchain-based protocol called **Ethereum**.
+In 2013, Vitalik Buterin proposed Ethereum — a blockchain like Bitcoin but with added features like smart contracts.  
+Launched in 2015, Ethereum enabled decentralized applications and agreements.
 
-> It uses the same blockchain infrastructure as Bitcoin, but adds extra features such as **smart contracts**.
+They took what made Bitcoin great and added programmable contracts.
 
-By 2015, Ethereum was officially launched.  
-Ethereum enables not just decentralized transactions, but also **decentralized agreements** and applications — without needing any centralized governing force.
+---
+
+## 🧠 Origin of Smart Contracts
+
+Smart contracts were first introduced by Nick Szabo in the 1990s as self-executing agreements written in code.  
+Ethereum brought this idea to life on the blockchain.
 
 ---
 
 ## 🏛️ Centralization vs Decentralization
 
-| Concept            | Centralization                          | Decentralization                          |
-|--------------------|------------------------------------------|-------------------------------------------|
-| **Definition**     | Controlled by a single entity            | Control is distributed among many users   |
-| **Example**        | Banks, Governments                       | Bitcoin, Ethereum                         |
-| **Trust**          | Trust in the authority                   | Trust in the system (code, consensus)     |
-| **Weak Point**     | Single point of failure                  | More resilient to attacks or censorship   |
+| Concept    | Centralization                | Decentralization               |
+|------------|-------------------------------|--------------------------------|
+| Control    | Single authority (like banks) | Shared among many participants |
+| Example    | Governments, banks            | Bitcoin, Ethereum              |
+| Trust      | Based on authority            | Based on code and consensus    |
+| Weak Point | Single point of failure       | More resilient                 |
+
+---
+
+## 🔗 The Oracle Problem
+
+Smart contracts can't access real-world data on their own.  
+Oracles provide this external data, allowing smart contracts to respond to real-world events.
+
+To stay decentralized, we use decentralized oracle networks like Chainlink:  
+https://chain.link
+
+---
+
+## 🧱 Layer 2 Scaling
+
+Layer 2 networks help blockchains scale by handling transactions off-chain and settling on-chain.
+
+Types of Layer 2:
+
+- Optimistic Rollups: Optimism, Arbitrum  
+- ZK Rollups: ZKsync, Polygon ZK EVM
+
+---
+
+## 📘 Key Terms
+
+- Blockchain: Distributed ledger (like Bitcoin)  
+- Smart contract: Code that executes automatically when conditions are met  
+- Oracle: Service that provides real-world data to smart contracts  
+- Layer 2: Technology that improves blockchain scalability  
+- Dapp: Decentralized application  
+- Hybrid contract: Combines on-chain logic with off-chain data  
+- EVM: Ethereum Virtual Machine that runs smart contracts  
+
+---
+
+## 🌐 Web Evolution
+
+- Web1: Read-only, open, static  
+- Web2: Centralized, dynamic, user content  
+- Web3: Decentralized, permissionless, user-owned
+
+---
+
+## ✅ Wrap Up
+
+Bitcoin introduced blockchain.  
+Ethereum expanded it with smart contracts.  
+Smart contracts automate trust, and oracles connect them to the real world.
+
+Next: What real problems do smart contracts solve?
