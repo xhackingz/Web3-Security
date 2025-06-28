@@ -1,0 +1,29 @@
+## 🪙 What is Bitcoin?
+
+Bitcoin is a **digital currency** that allows peer-to-peer transactions without the need for a central authority (like a bank).  
+It was invented by **Satoshi Nakamoto** in 2008 and introduced a new concept: **blockchain** — a distributed ledger that records all transactions.
+
+📄 **Bitcoin White Paper** (the original document by Satoshi):  
+👉 [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+
+---
+
+## ⚙️ Ethereum & Vitalik Buterin
+
+In 2013, **Vitalik Buterin** released a white paper proposing a new blockchain-based protocol called **Ethereum**.
+
+> It uses the same blockchain infrastructure as Bitcoin, but adds extra features such as **smart contracts**.
+
+By 2015, Ethereum was officially launched.  
+Ethereum enables not just decentralized transactions, but also **decentralized agreements** and applications — without needing any centralized governing force.
+
+---
+
+## 🏛️ Centralization vs Decentralization
+
+| Concept            | Centralization                          | Decentralization                          |
+|--------------------|------------------------------------------|-------------------------------------------|
+| **Definition**     | Controlled by a single entity            | Control is distributed among many users   |
+| **Example**        | Banks, Governments                       | Bitcoin, Ethereum                         |
+| **Trust**          | Trust in the authority                   | Trust in the system (code, consensus)     |
+| **Weak Point**     | Single point of failure                  | More resilient to attacks or censorship   |
